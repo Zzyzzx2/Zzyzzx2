@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahan S</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/24/ac/eb24ac9ceb8b614128ed5945a385206a.gif"/>
-
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,6 +10,8 @@
 <a href="https://codeforces.com/profile/zzyzzx38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zzyzzx38" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zzyzx38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zzyzx38" height="30" width="40" /></a>
 </p>
+<br>
+<br>
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
