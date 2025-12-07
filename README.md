@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahan S</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A Java Springboot | MERN Stack | Python Experienced Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/24/ac/eb24ac9ceb8b614128ed5945a385206a.gif"/>
 <br>
 <br>
